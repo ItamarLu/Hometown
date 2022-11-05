@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  color: red;
+}
+
+#header {
+  background-image: url(images/Filler.jpg);
+  width: cover;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#activities {
+  background: lightgreen;
+  text-align: center;
+}
+
+#places_flexbox{
+  display: flex;
+}
+
+#guide {
+  background: lightblue;
+}
+#guide_flexbox {
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
