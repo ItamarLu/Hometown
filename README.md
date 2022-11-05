@@ -1,3 +1,3 @@
 Hometown project
 
-Hometown project suggest by the HTML-CSS Scrimba course
+Hometown project suggested by the HTML-CSS Scrimba course
